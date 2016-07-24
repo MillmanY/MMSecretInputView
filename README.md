@@ -15,9 +15,10 @@ Its a custom secret view to design a secret view
 ![circledemo](https://github.com/MillmanY/MMSecretInputView/blob/master/demo2.gif)
 
 1.Use CompletedBlock to check when input its equal your setting digits
-  secretView.completedBlock = { (value) in
+
+    secretView.completedBlock = { (value) in
             
-  }
+    }
 
 
 ## Installation
