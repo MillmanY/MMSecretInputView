@@ -10,6 +10,15 @@
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+Its a custom secret view to design a secret view
+![circledemo](https://github.com/MillmanY/MMSecretInputView/blob/master/demo1.gif)
+![circledemo](https://github.com/MillmanY/MMSecretInputView/blob/master/demo2.gif)
+
+1.Use CompletedBlock to check when input its equal your setting digits
+  secretView.completedBlock = { (value) in
+            
+  }
+
 
 ## Installation
 
