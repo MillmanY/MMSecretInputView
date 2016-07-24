@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MMSecretInputView'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of MMSecretInputView.'
+  s.version          = '0.1.1'
+  s.summary          = 'MMSecretInputView'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,15 +17,13 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'Help to design a custom secret view'
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/MMSecretInputView'
+  s.homepage         = 'https://github.com/MillmanY/MMSecretInputView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Millman' => 'millmanyang@gmail.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/MMSecretInputView.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/MillmanY/MMSecretInputView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

@@ -10,6 +10,19 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
+		<key>12727B6AC2681A5C208C1767</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>94CD0A02A9DF44898E3EB034</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>48069C8D31622560B2A544EE</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -22,6 +35,30 @@
 			<string>../README.md</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4ADEE05514854E75939CEC09</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array/>
+			<key>inputPaths</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXShellScriptBuildPhase</string>
+			<key>name</key>
+			<string>Embed Pods Frameworks</string>
+			<key>outputPaths</key>
+			<array/>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+			<key>shellPath</key>
+			<string>/bin/sh</string>
+			<key>shellScript</key>
+			<string>"${SRCROOT}/Pods/Target Support Files/Pods-MMSecretInputView_Example/Pods-MMSecretInputView_Example-frameworks.sh"
+</string>
+			<key>showEnvVarsInLog</key>
+			<string>0</string>
 		</dict>
 		<key>5AA653176C758B0A2E5DF246</key>
 		<dict>
@@ -44,6 +81,8 @@
 				<string>607FACD21AFB9204008FA782</string>
 				<string>607FACE81AFB9204008FA782</string>
 				<string>607FACD11AFB9204008FA782</string>
+				<string>D2E5A439DF3E83783EDB9915</string>
+				<string>12727B6AC2681A5C208C1767</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -140,7 +179,9 @@
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
-			<array/>
+			<array>
+				<string>F0BB919787B04D7A0E4BA20E</string>
+			</array>
 			<key>isa</key>
 			<string>PBXFrameworksBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
@@ -167,9 +208,12 @@
 			<string>607FACEF1AFB9204008FA782</string>
 			<key>buildPhases</key>
 			<array>
+				<string>EE014A5DABA40F090E0ACDBF</string>
 				<string>607FACCC1AFB9204008FA782</string>
 				<string>607FACCD1AFB9204008FA782</string>
 				<string>607FACCE1AFB9204008FA782</string>
+				<string>4ADEE05514854E75939CEC09</string>
+				<string>9CD612CBB06B1EE7A5E16B25</string>
 			</array>
 			<key>buildRules</key>
 			<array/>
@@ -703,6 +747,8 @@
 		</dict>
 		<key>607FACF01AFB9204008FA782</key>
 		<dict>
+			<key>baseConfigurationReference</key>
+			<string>DB65932D2299C415A4FF2D2A</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
@@ -725,6 +771,8 @@
 		</dict>
 		<key>607FACF11AFB9204008FA782</key>
 		<dict>
+			<key>baseConfigurationReference</key>
+			<string>A025F8C708DBB6481E16590C</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
@@ -825,6 +873,58 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>94CD0A02A9DF44898E3EB034</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.framework</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>Pods_MMSecretInputView_Example.framework</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>9CD612CBB06B1EE7A5E16B25</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array/>
+			<key>inputPaths</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXShellScriptBuildPhase</string>
+			<key>name</key>
+			<string>Copy Pods Resources</string>
+			<key>outputPaths</key>
+			<array/>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+			<key>shellPath</key>
+			<string>/bin/sh</string>
+			<key>shellScript</key>
+			<string>"${SRCROOT}/Pods/Target Support Files/Pods-MMSecretInputView_Example/Pods-MMSecretInputView_Example-resources.sh"
+</string>
+			<key>showEnvVarsInLog</key>
+			<string>0</string>
+		</dict>
+		<key>A025F8C708DBB6481E16590C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>name</key>
+			<string>Pods-MMSecretInputView_Example.release.xcconfig</string>
+			<key>path</key>
+			<string>Pods/Target Support Files/Pods-MMSecretInputView_Example/Pods-MMSecretInputView_Example.release.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>CB50E2A4913F9CF61EF2ACEE</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -837,6 +937,72 @@
 			<string>../MMSecretInputView.podspec</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D2E5A439DF3E83783EDB9915</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>DB65932D2299C415A4FF2D2A</string>
+				<string>A025F8C708DBB6481E16590C</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DB65932D2299C415A4FF2D2A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>name</key>
+			<string>Pods-MMSecretInputView_Example.debug.xcconfig</string>
+			<key>path</key>
+			<string>Pods/Target Support Files/Pods-MMSecretInputView_Example/Pods-MMSecretInputView_Example.debug.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>EE014A5DABA40F090E0ACDBF</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array/>
+			<key>inputPaths</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXShellScriptBuildPhase</string>
+			<key>name</key>
+			<string>Check Pods Manifest.lock</string>
+			<key>outputPaths</key>
+			<array/>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+			<key>shellPath</key>
+			<string>/bin/sh</string>
+			<key>shellScript</key>
+			<string>diff "${PODS_ROOT}/../Podfile.lock" "${PODS_ROOT}/Manifest.lock" &gt; /dev/null
+if [[ $? != 0 ]] ; then
+    cat &lt;&lt; EOM
+error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.
+EOM
+    exit 1
+fi
+</string>
+			<key>showEnvVarsInLog</key>
+			<string>0</string>
+		</dict>
+		<key>F0BB919787B04D7A0E4BA20E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>94CD0A02A9DF44898E3EB034</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 	</dict>
 	<key>rootObject</key>
