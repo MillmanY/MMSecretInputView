@@ -19,7 +19,8 @@ Its a custom secret view to design a secret view
     secretView.completedBlock = { (value) in
             
     }
-
+2.Setting your custom secret view on xib dashboard 
+![circledemo](https://github.com/MillmanY/MMSecretInputView/blob/master/demoimage.png)
 
 ## Installation
 
