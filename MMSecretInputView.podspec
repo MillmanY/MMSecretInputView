@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MMSecretInputView'
-  s.version          = '0.1.1'
+  s.version          = '0.1.3'
 
   s.summary          = 'MMSecretInputView'
 
@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'MMSecretInputView/Classes/**/*'
-  
+
   # s.resource_bundles = {
   #   'MMSecretInputView' => ['MMSecretInputView/Assets/*.png']
   # }
