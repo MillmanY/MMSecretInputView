@@ -52,70 +52,6 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-<<<<<<< HEAD
-		<key>10DE1947DAC0ED28F6C0A9F9BD75D546</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>RELEASE=1</string>
-				</array>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-=======
 		<key>121F68BE4CEB68791D4947AB17277AEC</key>
 		<dict>
 			<key>baseConfigurationReference</key>
@@ -172,7 +108,6 @@
 				<string>apple-generic</string>
 				<key>VERSION_INFO_PREFIX</key>
 				<string></string>
->>>>>>> a1a49758aa6f3175b9f421705d6258a4a5160e72
 			</dict>
 			<key>isa</key>
 			<string>XCBuildConfiguration</string>
@@ -205,8 +140,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-<<<<<<< HEAD
-=======
 		<key>26F170B59AC818824D4B8B8CBD4251E3</key>
 		<dict>
 			<key>baseConfigurationReference</key>
@@ -263,7 +196,6 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
->>>>>>> a1a49758aa6f3175b9f421705d6258a4a5160e72
 		<key>2962F173310D16144B2D112F140976D9</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -281,13 +213,8 @@
 		<dict>
 			<key>buildConfigurations</key>
 			<array>
-<<<<<<< HEAD
-				<string>552D02D5BA751AC2E8790D2811D496CA</string>
-				<string>10DE1947DAC0ED28F6C0A9F9BD75D546</string>
-=======
 				<string>A70CDAD61F90AC503C7D04CC22DA2923</string>
 				<string>FB45FFD90572718D82AB9092B750F0CA</string>
->>>>>>> a1a49758aa6f3175b9f421705d6258a4a5160e72
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
@@ -321,8 +248,6 @@
 			<key>targetProxy</key>
 			<string>4C49D3F9E9B8A6EC013689D8E102D736</string>
 		</dict>
-<<<<<<< HEAD
-=======
 		<key>38F96371661AA0A9B68D7E3D7CF98213</key>
 		<dict>
 			<key>baseConfigurationReference</key>
@@ -381,7 +306,6 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
->>>>>>> a1a49758aa6f3175b9f421705d6258a4a5160e72
 		<key>3DF068F399CD5DD1ACBB2CE541E3280A</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -456,13 +380,8 @@
 		<dict>
 			<key>buildConfigurations</key>
 			<array>
-<<<<<<< HEAD
-				<string>802668A02A53BE01EB68EF2D80BED883</string>
-				<string>C5A6D994C7AD51B77619A807F874D25E</string>
-=======
 				<string>38F96371661AA0A9B68D7E3D7CF98213</string>
 				<string>26F170B59AC818824D4B8B8CBD4251E3</string>
->>>>>>> a1a49758aa6f3175b9f421705d6258a4a5160e72
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
@@ -517,82 +436,6 @@
 			<key>remoteInfo</key>
 			<string>MMSecretInputView</string>
 		</dict>
-<<<<<<< HEAD
-		<key>552D02D5BA751AC2E8790D2811D496CA</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-=======
->>>>>>> a1a49758aa6f3175b9f421705d6258a4a5160e72
 		<key>570592BFEACB8841D6F991CBE710C780</key>
 		<dict>
 			<key>buildActionMask</key>
@@ -778,67 +621,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-<<<<<<< HEAD
-		<key>802668A02A53BE01EB68EF2D80BED883</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>6D7DBD25715446C39A482119FA4C1E5F</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/MMSecretInputView/MMSecretInputView-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/MMSecretInputView/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/MMSecretInputView/MMSecretInputView.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>MMSecretInputView</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>SWIFT_OPTIMIZATION_LEVEL</key>
-				<string>-Onone</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-=======
->>>>>>> a1a49758aa6f3175b9f421705d6258a4a5160e72
 		<key>81FDDBBBDA987D7024DD4C6ED2F34715</key>
 		<dict>
 			<key>children</key>
@@ -872,13 +654,8 @@
 		<dict>
 			<key>buildConfigurations</key>
 			<array>
-<<<<<<< HEAD
-				<string>A2859A0C2E95BEDB92AC64E6ED6EBECE</string>
-				<string>A109261015BF8C9BA86C6E2842E355A0</string>
-=======
 				<string>EFF9FA17CED671B9DD4993767DFAED6C</string>
 				<string>121F68BE4CEB68791D4947AB17277AEC</string>
->>>>>>> a1a49758aa6f3175b9f421705d6258a4a5160e72
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
@@ -896,141 +673,9 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>path</key>
-<<<<<<< HEAD
 			<string>MMSecretInputView-prefix.pch</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A109261015BF8C9BA86C6E2842E355A0</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>75FF425EE00334DFCF1DCA1B2A64BE35</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-MMSecretInputView_Example/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-MMSecretInputView_Example/Pods-MMSecretInputView_Example.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_MMSecretInputView_Example</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>A2859A0C2E95BEDB92AC64E6ED6EBECE</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>ECCB862FF01E314C9C4A867CE612EC7D</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-MMSecretInputView_Example/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-MMSecretInputView_Example/Pods-MMSecretInputView_Example.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_MMSecretInputView_Example</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>SWIFT_OPTIMIZATION_LEVEL</key>
-				<string>-Onone</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-=======
-			<string>MMSecretInputView-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
->>>>>>> a1a49758aa6f3175b9f421705d6258a4a5160e72
 		</dict>
 		<key>A49E9CA916F96BF57B7FD70EF93A06C2</key>
 		<dict>
@@ -1043,8 +688,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-<<<<<<< HEAD
-=======
 		<key>A70CDAD61F90AC503C7D04CC22DA2923</key>
 		<dict>
 			<key>buildSettings</key>
@@ -1118,7 +761,6 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
->>>>>>> a1a49758aa6f3175b9f421705d6258a4a5160e72
 		<key>A88A880884A313DF15E33E61B469D2AA</key>
 		<dict>
 			<key>fileRef</key>
@@ -1236,65 +878,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-<<<<<<< HEAD
-		<key>C5A6D994C7AD51B77619A807F874D25E</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>6D7DBD25715446C39A482119FA4C1E5F</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/MMSecretInputView/MMSecretInputView-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/MMSecretInputView/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/MMSecretInputView/MMSecretInputView.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>PRODUCT_NAME</key>
-				<string>MMSecretInputView</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-=======
->>>>>>> a1a49758aa6f3175b9f421705d6258a4a5160e72
 		<key>CDA9F64C613B8A87503181B095A8F504</key>
 		<dict>
 			<key>children</key>
@@ -1404,8 +987,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-<<<<<<< HEAD
-=======
 		<key>EFF9FA17CED671B9DD4993767DFAED6C</key>
 		<dict>
 			<key>baseConfigurationReference</key>
@@ -1470,7 +1051,6 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
->>>>>>> a1a49758aa6f3175b9f421705d6258a4a5160e72
 		<key>F20FA4C4A77F004B362B16A17D9E8826</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -1499,8 +1079,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-<<<<<<< HEAD
-=======
 		<key>FB45FFD90572718D82AB9092B750F0CA</key>
 		<dict>
 			<key>buildSettings</key>
@@ -1569,7 +1147,6 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
->>>>>>> a1a49758aa6f3175b9f421705d6258a4a5160e72
 		<key>FCF62C1446B039E3566681E493957BE2</key>
 		<dict>
 			<key>includeInIndex</key>
