@@ -9,6 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MMSecretInputView'
   s.version          = '0.1.1'
+
   s.summary          = 'MMSecretInputView'
 
 # This description is used to generate tags and improve search results.

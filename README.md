@@ -11,6 +11,19 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+Its a custom view to design a secret view
+
+![circledemo](https://github.com/MillmanY/MMSecretInputView/blob/master/demo1.gif)
+![circledemo](https://github.com/MillmanY/MMSecretInputView/blob/master/demo2.gif)
+
+1.Use CompletedBlock to check when input its equal your setting digits
+
+    secretView.completedBlock = { (value) in
+            
+    }
+2.Setting your custom secret view on xib dashboard 
+![circledemo](https://github.com/MillmanY/MMSecretInputView/blob/master/demoimage.png)
+
 ## Installation
 
 MMSecretInputView is available through [CocoaPods](http://cocoapods.org). To install
