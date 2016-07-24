@@ -1,0 +1,14 @@
+PODS:
+  - MMSecretInputView (0.1.0)
+
+DEPENDENCIES:
+  - MMSecretInputView (from `../`)
+
+EXTERNAL SOURCES:
+  MMSecretInputView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MMSecretInputView: ac9cb7bf6304c2de6c241ee59f2415ede6abc1ef
+
+COCOAPODS: 0.39.0
