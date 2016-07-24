@@ -30,7 +30,8 @@ MMSecretInputView is available through [CocoaPods](http://cocoapods.org). To ins
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "MMSecretInputView"
+pod ‘MMSecretInputView’ , ‘~> 0.1.3’
+
 ```
 
 ## Author
